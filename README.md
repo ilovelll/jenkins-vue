@@ -1,7 +1,6 @@
 # jenkins-vue
 
-> A Vue.js project
-
+> A Vue.js project to test jenkins push event
 ## Build Setup
 
 ``` bash
